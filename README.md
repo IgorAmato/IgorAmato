@@ -2,7 +2,7 @@
 
 ### <title> Hi, I'm Igor Amato! </title> :octocat:
 
-:books: I am a student of Computer Science.<br/>
+:books: I am a Computer Science.<br/>
 :seedling: I like to be always updated on studies related to Database and related subjects, if you have any knowledge that you think can help me make a commit or send me a message.<br/>
 :computer: I have solid knowledge in SQL database, and also have knowledge in Postgresql and MySql. <br/>
 
