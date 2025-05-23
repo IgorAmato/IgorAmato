@@ -2,9 +2,11 @@
 
 ### <title> Hi, I'm Igor Amato! </title> :octocat:
 
-:books: I am a Computer Science.<br/>
-:seedling: I like to be always updated on studies related to Database and related subjects, if you have any knowledge that you think can help me make a commit or send me a message.<br/>
-:computer: I have solid knowledge in SQL database, and also have knowledge in Postgresql and MySql. <br/>
+Database Administrator with solid experience in SQL Server, managing mission-critical and high-availability environments (24x7).
+
+Skilled in performance tuning, security, automation, and cloud migration (Azure). Strong analytical mindset, with proven experience in troubleshooting, continuous improvement, and database projects. Organized, communicative, and focused on delivering efficient and effective solutions.
+
+Currently expanding my skills with PostgreSQL, diving deep into its architecture, performance optimization, and administration. Excited about learning and working with open-source technologies.
 
 ![Ana GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorAmatO&bg_color=50,FF00FF,191970&title_color=fff&text_color=fff)
 
